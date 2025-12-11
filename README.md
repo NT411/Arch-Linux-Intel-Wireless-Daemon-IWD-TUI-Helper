@@ -59,6 +59,11 @@ Clone the repository:
 git clone https://github.com/NT411/Arch-Linux-Intel-Wireless-Daemon-IWD-TUI-Helper
 ```
 
+Open the repo folder:
+``bash 
+cd Arch-Linux-Intel-Wireless-Daemon-IWD-TUI-Helper
+```
+
 Run the TUI:
 ```bash
 python iwctl_helper.py
