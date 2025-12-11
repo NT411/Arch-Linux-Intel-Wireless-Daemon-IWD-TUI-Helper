@@ -61,7 +61,7 @@ git clone https://github.com/NT411/Arch-Linux-IWD-TUI
 
 Open the repo folder:
 ```bash 
-cd Arch-Linux-Intel-Wireless-Daemon-IWD-TUI-Helper
+cd Arch-Linux-IWD-TUI
 ```
 
 Run the TUI:
