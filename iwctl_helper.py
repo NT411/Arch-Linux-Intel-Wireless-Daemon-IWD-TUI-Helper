@@ -243,7 +243,7 @@ def submenu_adapters(stdscr, state: AppState):
         "Back",
     ]
     while True:
-        choice = generic_menu(stdscr, "IWSTL ADAPTERS SUBMENU", items)
+        choice = generic_menu(stdscr, "IWCTL ADAPTERS SUBMENU", items)
 
         if choice == 0:  # adapter list
             args = ["adapter", "list"]
